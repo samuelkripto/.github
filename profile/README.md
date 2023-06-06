@@ -1,8 +1,8 @@
 ## Hi there 👋, we are Vonix
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+![built-with-love](https://github.com/vonix-id/.github-private/assets/627874/22ed32c6-a71f-4a4a-a505-016777d1595f)
+![powered-by-black-magic](https://github.com/vonix-id/.github-private/assets/627874/40466638-3aec-4161-a298-54c0f6b77489)
+![60-percent-of-the-time-works-every-time](https://github.com/vonix-id/.github-private/assets/627874/3bd5f03d-e812-4e31-910e-c6138b4a21a9)
 
 <!--
 
