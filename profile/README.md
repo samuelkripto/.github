@@ -1,8 +1,8 @@
 ## Hi there 👋, we are Vonix
 
-![built-with-love](https://github.com/vonix-id/.github-private/assets/627874/22ed32c6-a71f-4a4a-a505-016777d1595f)
-![powered-by-black-magic](https://github.com/vonix-id/.github-private/assets/627874/40466638-3aec-4161-a298-54c0f6b77489)
-![60-percent-of-the-time-works-every-time](https://github.com/vonix-id/.github-private/assets/627874/3bd5f03d-e812-4e31-910e-c6138b4a21a9)
+![built-with-love](https://github.com/vonix-id/.github/assets/627874/5138bf6c-c39d-404a-84a4-f795d2981ac2)
+![powered-by-black-magic](https://github.com/vonix-id/.github/assets/627874/3022691a-df26-41cd-96d4-1171f62a5c6b)
+![60-percent-of-the-time-works-every-time](https://github.com/vonix-id/.github/assets/627874/2a59dd50-f4c8-482b-b799-5fb941cc7305)
 
 <!--
 
