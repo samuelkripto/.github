@@ -17,4 +17,4 @@
 
 ### Links
 
-[Careers](https://www.vonix.id/careers)
+[Careers](https://www.samuelkripto.com/careers)
