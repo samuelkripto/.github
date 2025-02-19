@@ -17,4 +17,5 @@
 
 ### Links
 
-[Careers](https://www.samuelkripto.com/careers)
+- Apps: [web](https://samuelkripto.com/) and [mobile](https://www.samuelkripto.com/download)
+- [Careers](https://www.samuelkripto.com/careers)
