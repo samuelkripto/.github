@@ -24,4 +24,5 @@ Hi there 👋, we are Samuel Kripto Indonesia.
 ### Useful Resources
 
 - Apps: [web](https://samuelkripto.com/) and [mobile](https://www.samuelkripto.com/download).
+- Tools: [SpinWheel](https://samuelkripto.github.io/spinwheel/)
 - [Careers](https://www.samuelkripto.com/careers).
