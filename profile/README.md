@@ -26,4 +26,4 @@ Hi there 👋, we are Samuel Kripto Indonesia.
 - Apps: [web](https://samuelkripto.com/) and [mobile](https://www.samuelkripto.com/download)
 - Tools: [SpinWheel](https://samuelkripto.github.io/spinwheel/)
 - [Careers](https://www.samuelkripto.com/careers)
-- The unofficial Samuel Kripto team soundtrack (yes, these songs are about us): [Suno](https://suno.com/playlist/ebe4d35f-1c0f-4058-96be-e03938414985)
+- The [unofficial Samuel Kripto team soundtrack](https://suno.com/playlist/ebe4d35f-1c0f-4058-96be-e03938414985) (yes, these songs are about us)
